@@ -1,0 +1,15 @@
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cache
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cs
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorTargetAssemblyInfo.cache
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.pdb
+C:\Curso\20486\Luismi\LabFiles\Mod13\Labfiles\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.genruntimeconfig.cache
